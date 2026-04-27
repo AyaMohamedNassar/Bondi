@@ -28,7 +28,7 @@ A modern, fully responsive HTML and CSS template design built with **Bootstrap**
 ## Demo / Preview
 Live Demo: https://ayamohamednassar.github.io/Bondi/ 
 
-
+<a id="getting-started"></a>
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -60,7 +60,7 @@ No complex setup required! Just a modern web browser.
 3. **View the template:**
    - Navigate to `http://localhost:8000` in your browser
 
-
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -74,7 +74,7 @@ Bondi/
 ├── README.md           # This file
 └── LICENSE             # License information
 ```
-
+<a id="technologies-used"></a>
 ## 🛠 Technologies Used
 
 | Technology | Purpose |
@@ -93,7 +93,7 @@ Bondi/
 - Accessibility-friendly markup
 - Performance-optimized assets
 
-
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
@@ -104,7 +104,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeatureName`)
 5. Open a Pull Request
 
-
+<a id="author"></a>
 ## 👩‍💻 Author
 
 **Aya Mohamed Nassar**
@@ -112,7 +112,7 @@ Contributions are welcome! To contribute:
 - GitHub: [@AyaMohamedNassar](https://github.com/AyaMohamedNassar)
 - Repository: [Bondi](https://github.com/AyaMohamedNassar/Bondi)
 
-
+<a id="license"></a>
 ## 📄 License
 
 This project is open source and available under the MIT License.
