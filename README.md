@@ -5,12 +5,10 @@ A modern, fully responsive HTML and CSS template design built with **Bootstrap**
 ## 📋 Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Responsive Design](#responsive-design)
-- [Customization](#customization)
-- [Browser Support](#browser-support)
 - [Contributing](#contributing)
 - [Author](#author)
 - [License](#license)
@@ -25,6 +23,9 @@ A modern, fully responsive HTML and CSS template design built with **Bootstrap**
 - ✅ **Cross-Browser Compatible** - Tested across all modern browsers
 - ✅ **Easy to Customize** - Well-organized code structure for quick modifications
 - ✅ **Modern Design** - Contemporary UI/UX patterns and best practices
+
+## Demo / Preview
+Live Demo:
 
 ## 🚀 Getting Started
 
@@ -47,11 +48,11 @@ No complex setup required! Just a modern web browser.
      # Using Python 3
      python -m http.server 8000
      
-     # Using Python 2
-     python -m SimpleHTTPServer 8000
-     
      # Using Node.js (http-server)
      npx http-server
+
+     # Or use the VS Code "Live Server" extension.
+     Just add it to your VS
      ```
 
 3. **View the template:**
@@ -79,70 +80,6 @@ Bondi/
 | **CSS3** | Styling and animations (19.3%) |
 | **Bootstrap 5** | Responsive grid system and components |
 
-### Bootstrap Integration
-
-This template leverages Bootstrap 5's powerful features:
-- **Grid System** - 12-column responsive layout
-- **Components** - Navbar, buttons, cards, forms, etc.
-- **Utilities** - Spacing, display, text utilities
-- **Responsive Classes** - Breakpoints for different screen sizes
-
-## 📱 Responsive Design
-
-Bondi is optimized for all screen sizes:
-
-- **Mobile (Extra Small):** < 576px
-- **Small:** ≥ 576px
-- **Medium (Tablet):** ≥ 768px
-- **Large:** ≥ 992px
-- **Extra Large:** ≥ 1200px
-- **XXL:** ≥ 1400px
-
-The design automatically adjusts layout, typography, and spacing based on viewport size.
-
-## 🎯 Customization
-
-### Modifying Colors
-
-Edit the custom CSS variables in `css/styles.css`:
-
-```css
-:root {
-  --primary-color: #your-color;
-  --secondary-color: #your-color;
-  --text-color: #your-color;
-}
-```
-
-### Changing Content
-
-Simply edit the HTML in `index.html` to add your own:
-- Replace text content
-- Update images
-- Modify section layouts
-- Add new Bootstrap components
-
-### Customizing Bootstrap
-
-Import Bootstrap and override variables in your `css/styles.css`:
-
-```css
-/* Override Bootstrap defaults */
-@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.x.x/dist/css/bootstrap.min.css');
-
-/* Your custom styles */
-```
-
-## 🌐 Browser Support
-
-Bondi is tested and supported on:
-
-- ✅ Chrome (latest versions)
-- ✅ Firefox (latest versions)
-- ✅ Safari (latest versions)
-- ✅ Edge (latest versions)
-- ✅ Opera (latest versions)
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile, Firefox Mobile)
 
 ## 📖 Best Practices Implemented
 
@@ -173,15 +110,6 @@ Contributions are welcome! To contribute:
 ## 📄 License
 
 This project is open source and available under the MIT License.
-
----
-
-## 💡 Tips for Usage
-
-- **Inspect elements** using browser DevTools to understand the Bootstrap grid structure
-- **Customize Bootstrap** by downloading your own theme from [Bootstrap Customize](https://getbootstrap.com/docs/5.0/customize/overview/)
-- **Refer to [Bootstrap Documentation](https://getbootstrap.com/docs/)** for advanced customization options
-- **Test responsiveness** using browser DevTools device emulation
 
 ## 📞 Support
 
