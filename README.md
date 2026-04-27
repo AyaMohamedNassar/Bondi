@@ -25,10 +25,12 @@ A modern, fully responsive HTML and CSS template design built with **Bootstrap**
 - ✅ **Modern Design** - Contemporary UI/UX patterns and best practices
 
 ---
+
 ## Demo / Preview
 Live Demo: https://ayamohamednassar.github.io/Bondi/ 
 
 ---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
