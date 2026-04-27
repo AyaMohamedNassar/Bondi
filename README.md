@@ -5,7 +5,7 @@ A modern, fully responsive HTML and CSS template design built with **Bootstrap**
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
+- [Demo](#demo--preview)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
